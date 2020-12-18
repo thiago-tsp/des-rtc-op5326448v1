@@ -1,0 +1,5 @@
+dependencies:
+  - name: bb-aplic
+    version: 5.3.4
+    alias: rtc-op5326448v1
+    repository: https://chartmuseum.devops.nuvem.bb.com.br/bb/catalogo
